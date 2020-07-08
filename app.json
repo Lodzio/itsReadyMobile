@@ -1,0 +1,12 @@
+{
+  "name": "itsReady",
+  "displayName": "itsReady",
+  "expo": {
+    "name": "itsReady",
+    "slug": "itsReady",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
